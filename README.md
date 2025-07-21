@@ -41,3 +41,8 @@ L'intégralité du processus est conçu pour être réplicable, aisément modifi
 | `json`, `gzip`            | Chargement et lecture de fichiers `.jsonl.gz`                                   |
 | `tqdm`                    | Suivi visuel de la progression lors du traitement des avis                      |
 | `Jupyter Notebook`        | Présentation interactive du projet avec exécution pas-à-pas                     |
+
+## 📊  Visualisations
+Cette partie compile les principales visualisations provenant de l'étude des commentaires clients sur Amazon (secteur Beauté).  Ces représentations facilitent un résumé rapide des tendances, des opinions clients et des aspects critiques mentionnés dans les retours :
+ - 📈 Distribution des notes : Histogramme des évaluations (de 1 à 5 étoiles), pour visualiser le niveau général de satisfaction.
+   
