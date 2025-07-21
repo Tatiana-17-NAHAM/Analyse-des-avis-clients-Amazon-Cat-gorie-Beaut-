@@ -45,4 +45,6 @@ L'intégralité du processus est conçu pour être réplicable, aisément modifi
 ## 📊  Visualisations
 Cette partie compile les principales visualisations provenant de l'étude des commentaires clients sur Amazon (secteur Beauté).  Ces représentations facilitent un résumé rapide des tendances, des opinions clients et des aspects critiques mentionnés dans les retours :
  - 📈 Distribution des notes : Histogramme des évaluations (de 1 à 5 étoiles), pour visualiser le niveau général de satisfaction.
-   
+
+  ![Distribution des notes](image1.png)
+ 
