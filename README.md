@@ -34,7 +34,8 @@ L'intégralité du processus est conçu pour être réplicable, aisément modifi
 
 Pour explorer le code et les visualisations pas-à-pas :
 
-🔗 [Ouvrir le notebook sur GitHub](URL_DU_NOTEBOOK_Ici)
+[📘 Voir le notebook Jupyter](./notebook.ipynb)
+
 
 
 ## 🛠️ Technologies utilisées
