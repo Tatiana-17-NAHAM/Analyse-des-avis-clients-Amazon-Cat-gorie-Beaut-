@@ -67,3 +67,5 @@ Ce nuage souligne de manière visuelle les points soulevés par les clients les 
 ![score de sentiment](image3.png)
 
 Ce graphique démontre la répartition des notes d'opinion attribuées aux commentaires des clients concernant les produits cosmétiques.  Il révèle une forte concentration autour de la neutralité, avec une prédominance d'opinions exprimant des sentiments modérés ou légèrement positifs.  La courbe, lissée, reflète une tendance centrale assez équilibrée, sans présence significative d’extrêmes négatifs ou très positifs.  Cette représentation offre une évaluation rapide du ton global des commentaires, ni trop critique, ni trop enthousiaste, indiquant ainsi des opinions généralement équilibrées.
+
+## Visualisation temporelle des avis
