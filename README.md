@@ -53,3 +53,5 @@ Le graphique révèle que la plupart des clients évaluent hautement les produit
 ## ☁️ Nuage de mot des commentaires : Synthèse des mots les plus utilisés dans les commentaires clients. Idéal pour repérer les tendances spontanées.
 
  ![nuage des mots](image2.png)
+
+Le nuage de mots souligne les inquiétudes fréquemment manifestées par les clients dans leurs commentaires.  Cela met en évidence des sujets liés à l'utilisation quotidienne des produits, aux expériences qu'ils offrent et à leur qualité perçue.  On note une perception généralement favorable concernant l'expérience utilisateur et la dimension sensorielle des produits.  Cette forme de représentation permet de saisir l'essence des commentaires d'un seul coup d'œil, dévoilant ce dont les clients parlent le plus spontanément. 
