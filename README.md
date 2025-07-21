@@ -123,4 +123,4 @@ Toutefois, même si elles sont minoritaires, les critiques négatives mettent en
 ## 🧑‍💻 Auteur
 Ce projet a été réalisé par Tatiana SANGUEAL NAHAM, passionnée par l’analyse de données, l’exploration visuelle et l’intelligence appliquée à la compréhension des avis clients.
 
-📫 Contact : nsanguealtatiana@outlook.com 🔗 LinkedIn : linkedin.com/in/ton-lien-linkedin
+📫 Contact : nsanguealtatiana@outlook.com 🔗 LinkedIn :🔗 ([https://www.linkedin.com/in/ton-lien-linkedin](https://www.linkedin.com/in/tatiana-sangu%C3%A9al-naham-050170178/))
