@@ -9,7 +9,7 @@
 - [🎯 Objectifs du projet](#🎯-objectifs-du-projet)
 - [🛠️ Technologies utilisées](#️-technologies-utilisées)
 - [📊 Visualisations](#📊-visualisations)
-- [🔍 Étapes de l’analyse](#🔍-étapes-de-lanalyse)
+-  [📊Synthèse des avis ( Statistiques descriptives)](#📊-visualisations)
 - [🧾 Conclusion & recommandations](#🧾-conclusion--recommandations)
 - [🚀 Pistes d’évolution du projet](#🚀-pistes-dévolution-du-projet)
 
