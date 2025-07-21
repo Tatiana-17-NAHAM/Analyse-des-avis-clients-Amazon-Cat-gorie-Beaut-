@@ -61,3 +61,6 @@ Le nuage de mots souligne les inquiétudes fréquemment manifestées par les cli
 ![nuage des mots](image3.png)
 
 Ce nuage souligne de manière visuelle les points soulevés par les clients les plus exigeants.  Il représente une compilation de sentiments négatifs associés à des soucis d'efficacité, de confort ou de satisfaction générale.  La structure et la concentration des termes révèlent un degré d'insatisfaction spécifique, facilitant l'identification rapide des sources de mécontentement les plus fréquentes.  C'est un instrument pratique pour identifier ce qui se retrouve fréquemment dans les critiques les plus négatives sans avoir à effectuer une lecture complète.
+
+## Visualisation des scores de sentiment
+
