@@ -55,3 +55,9 @@ Le graphique révèle que la plupart des clients évaluent hautement les produit
  ![nuage des mots](image2.png)
 
 Le nuage de mots souligne les inquiétudes fréquemment manifestées par les clients dans leurs commentaires.  Cela met en évidence des sujets liés à l'utilisation quotidienne des produits, aux expériences qu'ils offrent et à leur qualité perçue.  On note une perception généralement favorable concernant l'expérience utilisateur et la dimension sensorielle des produits.  Cette forme de représentation permet de saisir l'essence des commentaires d'un seul coup d'œil, dévoilant ce dont les clients parlent le plus spontanément. 
+
+## ☁️ Nuage de mots – avis négatifs : Zoom visuel sur les mots les plus cités dans les commentaires les plus critiques (sentiment très bas).
+
+![nuage des mots](image3.png)
+
+Ce nuage souligne de manière visuelle les points soulevés par les clients les plus exigeants.  Il représente une compilation de sentiments négatifs associés à des soucis d'efficacité, de confort ou de satisfaction générale.  La structure et la concentration des termes révèlent un degré d'insatisfaction spécifique, facilitant l'identification rapide des sources de mécontentement les plus fréquentes.  C'est un instrument pratique pour identifier ce qui se retrouve fréquemment dans les critiques les plus négatives sans avoir à effectuer une lecture complète.
