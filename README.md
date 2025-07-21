@@ -3,6 +3,18 @@
 
 # Analyse-des-avis-clients-Amazon-Catégorie-Beauté
 
+## 📚 Sommaire
+
+- [🧭 Présentation du projet](#🧭-présentation-du-projet)
+- [🎯 Objectifs du projet](#🎯-objectifs-du-projet)
+- [🛠️ Technologies utilisées](#️-technologies-utilisées)
+- [📊 Visualisations](#📊-visualisations)
+- [🔍 Étapes de l’analyse](#🔍-étapes-de-lanalyse)
+- [🧾 Conclusion & recommandations](#🧾-conclusion--recommandations)
+- [🚀 Pistes d’évolution du projet](#🚀-pistes-dévolution-du-projet)
+- [👩‍💻 Auteur](#👩‍💻-auteur)
+
+
 ## 🧭 Présentation du projet
 Ce projet vise à analyser les commentaires des clients sur Amazon dans la section produits de beauté, afin de mieux saisir les perceptions, les aspects positifs et les domaines nécessitant des améliorations identifiés par les utilisateurs.
 
