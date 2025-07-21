@@ -30,6 +30,13 @@ Ce projet a pour objectif de :
 
 L'intégralité du processus est conçu pour être réplicable, aisément modifiable pour d'autres produits, et démontrer ta compétence à convertir des informations textuelles brutes en décisions réfléchies.
 
+## ## 📘 Accès au notebook interactif
+
+Pour explorer le code et les visualisations pas-à-pas :
+
+🔗 [Ouvrir le notebook sur GitHub](URL_DU_NOTEBOOK_Ici)
+
+
 ## 🛠️ Technologies utilisées
 
 | Librairie / Outil         | Usage principal                                                                 |
