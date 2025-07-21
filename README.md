@@ -85,3 +85,13 @@ Ce graphique montre la distribution des scores de sentiment en fonction de la co
 ![analyse thématique ](image7.png)
 
 Ce graphique représente la fréquence d'occurrence de certains mots-clés thématiques dans les commentaires des clients.  Il souligne les termes fréquemment mentionnés lorsqu'on parle d'aspects du produit ou de l'expérience d'achat.  On note des différences notables entre les termes, ce qui laisse supposer que certains éléments tels que la texture ou le volume sont beaucoup plus fréquemment évoqués que d'autres.  Cette illustration facilite la détection immédiate des problèmes spécifiques des utilisateurs et des attributs les plus évoqués dans les retours d'expérience clients.  C'est une fondation appropriée pour diriger des améliorations spécifiques sur les éléments les plus critiques.
+
+## 📊 Synthèse des avis (Statistiques descriptives)
+
+| Indicateur                          | Valeur        | Interprétation                                                                 |
+|------------------------------------|---------------|--------------------------------------------------------------------------------|
+| Moyenne des notes attribuées       | 3.91          | Tendances majoritairement positives dans les évaluations                      |
+| Moyenne des scores de sentiment    | 0.25          | Ton général plutôt positif ou neutre dans les commentaires                    |
+| Part des avis avec achat vérifié   | 89.8 %        | Forte proportion de retours authentifiés, gage de crédibilité                 |
+
+Ces chiffres indiquent une orientation plutôt favorable dans l'ensemble des retours de clients, avec un pourcentage élevé d'acheteurs vérifiés.  Ils fournissent un fondement robuste pour comprendre les graphiques et enrichir les analyses textuelles.  Présenté sous forme de tableau.
