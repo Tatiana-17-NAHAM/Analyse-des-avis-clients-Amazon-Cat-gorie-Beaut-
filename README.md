@@ -77,3 +77,5 @@ Ce graphique met en lumière la progression mensuelle du nombre de critiques sur
 ## Sentiment selon achat vérifié ou non
 
 ![achat vérifié ](image6.png)
+
+Ce graphique montre la distribution des scores de sentiment en fonction de la confirmation ou non de l'achat du produit.  Il illustre visuellement les variations de tonalité dans les commentaires entre les clients identifiés et ceux qui ne le sont pas.  On observe que les commentaires provenant d'achats authentifiés tendent à avoir une polarité un peu plus positive et plus centrée, alors que ceux non authentifiés montrent une variation plus étendue.  Cela indique une association entre la confirmation d'achat et la crédibilité ou l'intonation des commentaires des clients, et encourage à prendre en compte ce facteur lors de l'évaluation de la perception globale.
