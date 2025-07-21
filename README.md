@@ -79,3 +79,9 @@ Ce graphique met en lumière la progression mensuelle du nombre de critiques sur
 ![achat vérifié ](image6.png)
 
 Ce graphique montre la distribution des scores de sentiment en fonction de la confirmation ou non de l'achat du produit.  Il illustre visuellement les variations de tonalité dans les commentaires entre les clients identifiés et ceux qui ne le sont pas.  On observe que les commentaires provenant d'achats authentifiés tendent à avoir une polarité un peu plus positive et plus centrée, alors que ceux non authentifiés montrent une variation plus étendue.  Cela indique une association entre la confirmation d'achat et la crédibilité ou l'intonation des commentaires des clients, et encourage à prendre en compte ce facteur lors de l'évaluation de la perception globale.
+
+## Analyse par mots-clés thématiques (livraison, qualité, prix)
+
+![analyse thématique ](image7.png)
+
+Ce graphique représente la fréquence d'occurrence de certains mots-clés thématiques dans les commentaires des clients.  Il souligne les termes fréquemment mentionnés lorsqu'on parle d'aspects du produit ou de l'expérience d'achat.  On note des différences notables entre les termes, ce qui laisse supposer que certains éléments tels que la texture ou le volume sont beaucoup plus fréquemment évoqués que d'autres.  Cette illustration facilite la détection immédiate des problèmes spécifiques des utilisateurs et des attributs les plus évoqués dans les retours d'expérience clients.  C'est une fondation appropriée pour diriger des améliorations spécifiques sur les éléments les plus critiques.
