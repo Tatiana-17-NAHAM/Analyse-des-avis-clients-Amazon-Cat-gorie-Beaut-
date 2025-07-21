@@ -12,7 +12,7 @@
 - [🔍 Étapes de l’analyse](#🔍-étapes-de-lanalyse)
 - [🧾 Conclusion & recommandations](#🧾-conclusion--recommandations)
 - [🚀 Pistes d’évolution du projet](#🚀-pistes-dévolution-du-projet)
-- [👩‍💻 Auteur](#👩‍💻-auteur)
+
 
 
 ## 🧭 Présentation du projet
