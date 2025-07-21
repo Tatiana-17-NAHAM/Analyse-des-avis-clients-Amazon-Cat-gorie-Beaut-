@@ -119,3 +119,8 @@ Toutefois, même si elles sont minoritaires, les critiques négatives mettent en
 -  Apprécier les commentaires d'achats vérifiés : ces évaluations sont considérées comme plus fiables, et ont un impact positif sur les acheteurs potentiels.
 
 -  Veiller sur les mots-clés critiques :  Il est important d'incorporer une surveillance des termes associés à la déception afin de répondre promptement aux commentaires des clients.
+
+## 🧑‍💻 Auteur
+Ce projet a été réalisé par Tatiana SANGUEAL NAHAM, passionnée par l’analyse de données, l’exploration visuelle et l’intelligence appliquée à la compréhension des avis clients.
+
+📫 Contact : nsanguealtatiana@outlook.com 🔗 LinkedIn : linkedin.com/in/ton-lien-linkedin
