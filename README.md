@@ -47,4 +47,5 @@ Cette partie compile les principales visualisations provenant de l'étude des co
  ## 📈 Distribution des notes : Histogramme des évaluations (de 1 à 5 étoiles), pour visualiser le niveau général de satisfaction.
 
   ![Distribution des notes](image1.png)
+
 Le graphique révèle que la plupart des clients évaluent hautement les produits cosmétiques sur Amazon, avec une forte concentration autour de 4 à 5 étoiles.  Les commentaires défavorables demeurent peu fréquents, traduisant un grand degré de contentement général.  Avec plus de 700 000 avis, l'ampleur du jeu de données renforce la crédibilité de cette tendance et incite à une étude plus détaillée du contenu des commentaires afin de saisir ce qui séduit véritablement les utilisateurs. 
