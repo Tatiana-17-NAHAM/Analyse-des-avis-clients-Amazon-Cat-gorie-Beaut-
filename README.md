@@ -71,3 +71,5 @@ Ce graphique démontre la répartition des notes d'opinion attribuées aux comme
 ## Visualisation temporelle des avis
 
 ![temporelle des avis](image5.png)
+
+Ce graphique met en lumière la progression mensuelle du nombre de critiques sur les produits cosmétiques, sur une durée s'étendant de 2004 à 2023.  On note une augmentation graduelle culminant entre 2018 et 2019, suivie d'une chute marquée à partir de 2020.  Ce graphique illustre les variations de l'engagement des clients sur la plateforme, qui peuvent être le résultat de tendances de consommation, d'effets saisonniers ou d'événements externes.  Elle offre la possibilité de repérer les moments où l'implication du client était la plus intense, et ceux où elle a diminué, fournissant des perspectives sur l'évolution du comportement d'achat au fil du temps.
