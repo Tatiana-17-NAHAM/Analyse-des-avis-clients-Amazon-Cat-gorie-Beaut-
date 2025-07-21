@@ -17,3 +17,15 @@ Ce projet a pour objectif de :
 - Mettre en pratique une méthode d'analyse simple mais solide en Python à l'aide d'outils disponibles
 
 L'intégralité du processus est conçu pour être réplicable, aisément modifiable pour d'autres produits, et démontrer ta compétence à convertir des informations textuelles brutes en décisions réfléchies.
+
+## 🛠️ Technologies utilisées
+
+| Librairie / Outil         | Usage principal                                                                 |
+|---------------------------|----------------------------------------------------------------------------------|
+| `pandas`                  | Manipulation de données, nettoyage, traitement tabulaire                        |
+| `matplotlib`, `seaborn`   | Visualisations : histogrammes, courbes, boxplots                                |
+| `wordcloud`               | Génération de nuages de mots à partir des commentaires clients                  |
+| `TextBlob`                | Analyse de sentiment textuel simple et accessible                               |
+| `json`, `gzip`            | Chargement et lecture de fichiers `.jsonl.gz`                                   |
+| `tqdm`                    | Suivi visuel de la progression lors du traitement des avis                      |
+| `Jupyter Notebook`        | Présentation interactive du projet avec exécution pas-à-pas                     |
